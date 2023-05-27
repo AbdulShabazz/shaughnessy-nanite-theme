@@ -3,6 +3,15 @@
   "displayName": "shaughnessy-nanite-theme",
   "description": "A dark theme visual theme extension pack for Visual Studio Code",
   "version": "0.0.1",
+	"publisher": "AbdulShabazz",
+	"license": "GNU GPLv3",
+	"author": "AbdulShabaaz",
+	"icon": "logo2.png",
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbdulShabaaz/shaughnessy-nanite-theme.git"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
