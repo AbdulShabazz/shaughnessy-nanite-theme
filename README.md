@@ -1,1 +1,2 @@
-# Shaughnessy-Nanite Theme VS code extension
+# Shaughnessy-Nanite Theme 
+A dark theme visual theme extension pack for Visual Studio Code.
