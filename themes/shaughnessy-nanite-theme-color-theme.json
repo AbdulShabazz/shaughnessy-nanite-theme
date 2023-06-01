@@ -104,7 +104,7 @@
 		"name": "Comment",
 		"scope": "comment",
 		"settings": {
-		"foreground": "#4A4A4A",
+		"foreground": "#6A6A6A",
 		"fontStyle": "italic"
 		}
 	},
@@ -112,7 +112,7 @@
 		"name": "Comment",
 		"scope": "comment punctuation.definition.comment, string.quoted.docstring",
 		"settings": {
-		"foreground": "#4A4A4A",
+		"foreground": "#6A6A6A",
 		"fontStyle": "italic"
 		}
 	},
